@@ -9,20 +9,20 @@ import os
 ###########################################################
 
 #enter the link to the website you want to automate login.
-website_link=""
+website_link="https://192.168.1.250/connect/PortalMain"
 #enter your login username
-username=""
+username="B123067"
 #enter your login password
-password=""
+password="MysteriousPassword"
 
 ###########################################################
 
 #enter the element for username input field
-element_for_username=""
+element_for_username="username"
 #enter the element for password input field
-element_for_password=""
+element_for_password="password"
 #enter the element for submit button
-element_for_submit=""
+element_for_submit="UserCheck_Login_Button"
 
 ###########################################################
 
